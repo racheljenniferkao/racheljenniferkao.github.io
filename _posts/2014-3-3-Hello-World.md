@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compound Calculator: WeChat Mini Program
+title: Compound Calculator WeChat Mini Program
 ---
 
 Recently I have joined a private equity company, Asia Value Capital, as an intern. My tasks includes taking notes on how to start investing as a beginner,translating Chinese files and brochures into English, and coding/creating a compound calculator for WeChat Mini Program's platform. 
