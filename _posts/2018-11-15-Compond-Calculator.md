@@ -26,6 +26,6 @@ The alternative or loophole is to create a [test account](https://developers.wei
 ![Test Account]({{ site.baseurl }}/images/testWechat.png)
 
 
-After you get your text accoount, simply follow the rest of the [easy tutorial](https://developers.weixin.qq.com/miniprogram/en/dev/). That consist of downloading WeChat's devtools application, along with a quickstart demo to start your mini program. 
+After you get your test accoount, simply follow the rest of the [easy tutorial](https://developers.weixin.qq.com/miniprogram/en/dev/). That consist of downloading WeChat's devtools application, along with a quickstart demo to start your mini program. 
 
 
