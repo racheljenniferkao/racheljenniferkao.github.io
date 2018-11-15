@@ -16,6 +16,6 @@ But Rachel, what is the meaning of this post if I can't even apply for an accoun
 
 Don't fret, my few readers. 
 The alternative or loophole is to create a [Test Account](https://developers.weixin.qq.com/miniprogram/en/dev/devtools/sandbox.html?t=18111421)!
-![_config.yml]({{ site.baseurl }}/images/testWechat.png)
+![Test Account]({{ site.baseurl }}/images/testWechat.png)
 
 
