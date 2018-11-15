@@ -3,7 +3,7 @@ layout: post
 title: Compound Calculator
 ---
 
-Recently I have joined a private equity company, Asia Value Capital, as an intern. In a future post, I will share my experiences in AVC, along with the investment knowledge and tips I have learned from them. My intern tasks includes taking notes on how to start investing as a beginner, translating Chinese files and brochures into English, and coding/creating a compound calculator for WeChat Mini Program's platform. 
+Recently I have joined a private equity company, Asia Value Capital, as an intern. In a future post, I will share my experiences in AVC, along with the investment knowledge and tips I have learned from them. My intern tasks include taking notes on how to start investing as a beginner, translating Chinese files and brochures into English, and coding/creating a compound calculator for WeChat Mini Program's platform. 
 
 Our main topic today is how I created the Compound Calculator for WeChat's Mini Program.
 
@@ -36,6 +36,7 @@ Now you might be wondering out of all things, why make a compound calculator?
 AVC values long term investments. Because long term investments along with compound interest rates can lead to an enormous amount of profit over time. Time in this case would be 5 years and more. So I was off and learning about the coding languages of WeChat.
 
 The first thing I noticed is that Mini Program's language is basically html, css, and javascript. They made their own similar versions, wxml, wxss. I find this as a theme in China, their own version of Facebook, Uber, and Venmo/Square Cash. The cool thing about this is that even though mini programs are similar to apps, the langauges behind it aren't your common application languages, ex: java, swift. Mini programs are essentially websites disguise as apps.
+
 
 
 
