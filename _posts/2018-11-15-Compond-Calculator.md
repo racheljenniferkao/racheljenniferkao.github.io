@@ -75,7 +75,13 @@ Resourceful/Useful Mini Program Websites:
 
 [https://developers.weixin.qq.com/miniprogram/en/dev/](https://developers.weixin.qq.com/miniprogram/en/dev/)
 
+Chinese Developer Blogs and Articles (If you want to search for mini program problems):
 
+[https://juejin.im/](https://juejin.im/)
+
+[https://www.csdn.net/](https://www.csdn.net/)
+
+[https://www.jianshu.com/](https://www.jianshu.com/)
 
 
 
