@@ -24,7 +24,7 @@ In the tutorial above, it requires you to apply for a Mini Program account. Sadl
 But Rachel, what is the meaning of this post if I can't even apply for an account? 
 
 
-Don't fret, my few readers. 
+Don't fret, my fellow readers. 
 The alternative or loophole is to create a [test account](https://developers.weixin.qq.com/miniprogram/en/dev/devtools/sandbox.html?t=18111421)!
 
 ![Test Account]({{ site.baseurl }}/images/testWechat.png)
@@ -37,9 +37,17 @@ AVC values long term investments. Because long term investments along with compo
 
 The first thing I noticed is that Mini Program's language is basically html, css, and javascript. They made their own similar versions, wxml, wxss. I find this as a theme in China, their own version of Facebook, Uber, and Venmo/Square Cash. The cool thing about this is that even though mini programs are similar to apps, the langauges behind it aren't your common application languages, ex: java, swift. Mini programs are essentially websites disguise as apps.
 
+One of the the most helpful pages was the [Components Page](https://developers.weixin.qq.com/miniprogram/en/dev/component/). Since mini program's langauge is not exactly like html, so there are certion exceptions or new tags to look out for. The components page is available in English and Chinese. I really like how for each unique tag name, it nicely list out all its attributes and provides an demo example of how everything works. WeChat also mimics React's lifecycle, they have predefined functions that deals with certain states when a page is loading. 
 
+Below is a picture of all the predefined lifecycle functions:
 
+![lifecycle]({{ site.baseurl }}/images/reactCycle.png)
 
+Now back to the calculator. I found a nice compound interest formula along with a good descriptive explanation [on this website](https://www.thecalculatorsite.com/articles/finance/compound-interest-formula.php?page=2). The website provides your basic compound formula, compound formula with additional deposits at the beginning of the month, and compound formula with additional deposits at the end of the month. For simplicity purposes, I only focused on the formula that dealt with deposits made at the end of the month.
+Below is the compound formula I used, along with the definition of variables.
+
+![formula]({{ site.baseurl }}/images/formula.png)
+![formula1]({{ site.baseurl }}/images/formula1.png)
 
 
 
