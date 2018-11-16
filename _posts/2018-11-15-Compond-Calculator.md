@@ -30,17 +30,17 @@ The alternative or loophole is to create a [test account](https://developers.wei
 ![Test Account]({{ site.baseurl }}/images/testWechat.png)
 
 
-After you get your test accoount, simply follow the rest of the [easy tutorial](https://developers.weixin.qq.com/miniprogram/en/dev/). That consist of downloading WeChat's devtools application, along with a quickstart demo to start your mini program. 
-After you're done, you will have an application similar as below.
+After you get your test account, simply follow the rest of the [easy tutorial](https://developers.weixin.qq.com/miniprogram/en/dev/). That consist of downloading WeChat's devtools application, along with a quickstart demo to start your mini program. 
+After you're done, you will have an application similar below.
 
 ![weChatDev]({{ site.baseurl }}/images/weChatDev.png)
 
 Now you might be wondering out of all things, why make a compound calculator? 
-AVC values long term investments. Because long term investments along with compound interest rates can lead to an enormous amount of profit over time. Time in this case would be 5 years and more. So I was off and learning about the coding languages of WeChat.
+AVC values long-term investments. Because long-term investments along with compound interest rates can lead to an enormous amount of profit over time. Time, in this case, would be 5 years and more. So I was off and learning about the coding languages of WeChat.
 
-The first thing I noticed is that Mini Program's language is basically html, css, and javascript. They made their own similar versions, wxml, wxss. I find this as a theme in China, their own version of Facebook, Uber, and Venmo/Square Cash. The cool thing about this is that even though mini programs are similar to apps, the langauges behind it aren't your common application languages, ex: java, swift. Mini programs are essentially websites disguise as apps.
+The first thing I noticed is that Mini Program's language is basically html, css, and javascript. They made their own similar versions, wxml, wxss. I find this as a theme in China, their own version of Facebook, Uber, and Venmo/Square Cash. The cool thing about this is that even though mini programs are similar to apps, the languages behind it aren't your common application languages, ex: java, swift. Mini programs are essentially websites disguised as apps.
 
-One of the the most helpful pages was the [Components Page](https://developers.weixin.qq.com/miniprogram/en/dev/component/). Since mini program's langauge is not exactly like html, so there are certion exceptions or new tags to look out for. The components page is available in English and Chinese. I really like how for each unique tag name, it nicely list out all its attributes and provides an demo example of how everything works. WeChat also mimics React's lifecycle, they have predefined functions that deals with certain states when a page is loading. 
+One of the the most helpful pages was the [Components Page](https://developers.weixin.qq.com/miniprogram/en/dev/component/). Since mini program's language is not exactly like html, so there are certain exceptions or new tags to look out for. The components page is available in English and Chinese. I really like how for each unique tag name, it nicely list out all its attributes and provides a demo example of how everything works. WeChat also mimics React's lifecycle, they have predefined functions that deals with certain states when a page is loading. 
 
 Below is a picture of all the predefined lifecycle functions:
 
@@ -65,7 +65,7 @@ I want to have more compounding options and deposit options.
 I would also like to make the results look more presentable. 
 Overall, have a better UI. 
 
-Also any recommendations and advices are welcome! Please email me. 
+Also, any recommendations and advice are welcome! Please email me. 
 
 Resourceful/Useful Mini Program Websites: 
 
