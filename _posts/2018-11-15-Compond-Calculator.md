@@ -65,8 +65,10 @@ Overall, have a better UI.
 Also any recommendations and advices are welcome! Please email me. 
 
 Resourceful/Useful Mini Program Websites: 
-[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki)
-[https://walkthechat.com/wechat-mini-programs-simple-introduction/](https://walkthechat.com/wechat-mini-programs-simple-introduction/)
+[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki) /n
+
+[https://walkthechat.com/wechat-mini-programs-simple-introduction/](https://walkthechat.com/wechat-mini-programs-simple-introduction/) \n
+
 [https://developers.weixin.qq.com/miniprogram/en/dev/](https://developers.weixin.qq.com/miniprogram/en/dev/)
 
 
