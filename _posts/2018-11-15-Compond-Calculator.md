@@ -31,6 +31,9 @@ The alternative or loophole is to create a [test account](https://developers.wei
 
 
 After you get your test accoount, simply follow the rest of the [easy tutorial](https://developers.weixin.qq.com/miniprogram/en/dev/). That consist of downloading WeChat's devtools application, along with a quickstart demo to start your mini program. 
+After you're done, you will have an application similar as below.
+
+![weChatDev]({{ site.baseurl }}/images/weChatDev.png)
 
 Now you might be wondering out of all things, why make a compound calculator? 
 AVC values long term investments. Because long term investments along with compound interest rates can lead to an enormous amount of profit over time. Time in this case would be 5 years and more. So I was off and learning about the coding languages of WeChat.
