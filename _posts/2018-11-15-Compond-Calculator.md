@@ -52,6 +52,7 @@ Below is the compound formula I used, along with the definitions of variables.
 ![formula]({{ site.baseurl }}/images/formula.png)
 ![formula1]({{ site.baseurl }}/images/formula1.png)
 
+With the formula and some basic knowledge of how weChat Mini Program operates, I'm off to create this money making calculator!
 Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao/Compound-Calculator/tree/master/Compound%20Calculator).
 
 What's next?
