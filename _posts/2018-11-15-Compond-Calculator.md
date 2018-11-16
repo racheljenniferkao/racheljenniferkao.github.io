@@ -47,10 +47,28 @@ Below is a picture of all the predefined lifecycle functions:
 ![lifecycle]({{ site.baseurl }}/images/reactCycle.png)
 
 Now back to the calculator. I found a nice compound interest formula along with a good descriptive explanation [on this website](https://www.thecalculatorsite.com/articles/finance/compound-interest-formula.php?page=2). The website provides your basic compound formula, compound formula with additional deposits at the beginning of the month, and compound formula with additional deposits at the end of the month. For simplicity purposes, I only focused on the formula that dealt with deposits made at the end of the month.
-Below is the compound formula I used, along with the definition of variables.
+Below is the compound formula I used, along with the definitions of variables.
 
 ![formula]({{ site.baseurl }}/images/formula.png)
 ![formula1]({{ site.baseurl }}/images/formula1.png)
+
+Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao?tab=repositories)
+
+What's next?
+
+There is much more to explore. WeChat has lots of data on their large user base, thus their APIs are super useful and easily accessible. Another thing you can tackle is how to manipulate and play with media on their platform. That's what I will be trying out next. I think a good next experiment would be to make a small animated game.
+
+Future improvements on the calculator?
+I would like to create a switch that allows the users to choose which compound interest formula to use. 
+I would also like to make the results look more presentable. 
+Overall, have a better UI. 
+Also any recommendations and advices are welcome! Please email me. 
+
+Resourceful/Useful Mini Program Websites: 
+https://github.com/apelegri/wechat-mini-program-wiki
+https://walkthechat.com/wechat-mini-programs-simple-introduction/
+https://developers.weixin.qq.com/miniprogram/en/dev/
+
 
 
 
