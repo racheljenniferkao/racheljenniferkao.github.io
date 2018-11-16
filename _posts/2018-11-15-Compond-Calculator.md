@@ -52,21 +52,23 @@ Below is the compound formula I used, along with the definitions of variables.
 ![formula]({{ site.baseurl }}/images/formula.png)
 ![formula1]({{ site.baseurl }}/images/formula1.png)
 
-Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao/Compound-Calculator/tree/master/Compound%20Calculator)
+Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao/Compound-Calculator/tree/master/Compound%20Calculator).
 
 What's next?
 
 There is much more to explore. WeChat has lots of data on their large user base, thus their APIs are super useful and easily accessible. Another thing you can tackle is how to manipulate and play with media on their platform. That's what I will be trying out next. I think a good next experiment would be to make a small animated game.
 
-Future improvements on the calculator?
+Future improvements/next steps on the calculator?
 I would like to create a switch that allows the users to choose which compound interest formula to use. 
+I want to have more compounding options and deposit options.
 I would also like to make the results look more presentable. 
 Overall, have a better UI. 
+
 Also any recommendations and advices are welcome! Please email me. 
 
 Resourceful/Useful Mini Program Websites: 
 
-[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki).
+[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki)
 
 [https://walkthechat.com/wechat-mini-programs-simple-introduction/](https://walkthechat.com/wechat-mini-programs-simple-introduction/)
 
