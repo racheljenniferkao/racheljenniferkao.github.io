@@ -52,7 +52,7 @@ Below is the compound formula I used, along with the definitions of variables.
 ![formula]({{ site.baseurl }}/images/formula.png)
 ![formula1]({{ site.baseurl }}/images/formula1.png)
 
-Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao?tab=repositories)
+Here is my github repo for my [Compound Calculator Mini Program](https://github.com/racheljenniferkao/Compound-Calculator/tree/master/Compound%20Calculator)
 
 What's next?
 
@@ -65,9 +65,10 @@ Overall, have a better UI.
 Also any recommendations and advices are welcome! Please email me. 
 
 Resourceful/Useful Mini Program Websites: 
-[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki) /n
 
-[https://walkthechat.com/wechat-mini-programs-simple-introduction/](https://walkthechat.com/wechat-mini-programs-simple-introduction/) \n
+[https://github.com/apelegri/wechat-mini-program-wiki](https://github.com/apelegri/wechat-mini-program-wiki).
+
+[https://walkthechat.com/wechat-mini-programs-simple-introduction/](https://walkthechat.com/wechat-mini-programs-simple-introduction/)
 
 [https://developers.weixin.qq.com/miniprogram/en/dev/](https://developers.weixin.qq.com/miniprogram/en/dev/)
 
